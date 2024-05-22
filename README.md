@@ -1,24 +1,10 @@
-# test-demo
+## Laravel 11 + Vue3 test demo
 
-## Project setup
-```
-yarn install
-```
+Go inside the Project and install the required package.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- npm install
+- composer update
 
-### Compiles and minifies for production
-```
-yarn build
-```
+To start the vite server, use this command: npm run dev
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To start the laravel server, use this command: php artisan serve
